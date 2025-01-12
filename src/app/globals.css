@@ -1,0 +1,209 @@
+/* @tailwind base; */
+/* @tailwind components; */
+/* @tailwind utilities; */
+
+*{
+  margin: 0px;
+  padding: 0px;
+  
+
+}
+
+ .bgcolor{
+   background-color:rgb(235,  163, 163); 
+    
+} 
+
+.container{
+  position: relative;
+  margin-left: 26%;
+  margin-top: 21px;
+}
+
+.image-text {
+  color: white;
+  position: absolute;
+  top: 200px;
+  left: 0;
+  margin-left: 30%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+
+.image-text h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.image-text p {
+  margin-top: 5px;
+  margin-left: 30px;
+  font-size: larger;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 1px;
+  line-height: 30px;
+  
+
+}
+
+.rec{
+  color: black;
+  margin-top: 40px;
+  margin-left: 10%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+}
+
+/* card */
+
+.card{
+  width: 28%;
+  display: flex;
+  margin-top: 10px;
+  margin-left: 6%;
+  display: grid;
+  grid-gap: 10px;
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+.color1{
+  color: aqua;
+}
+
+
+
+.image2{
+background-color: rgb(248, 250, 186); ;
+}
+
+.image3{
+background-color: rgb(248, 250, 186); ;
+}
+
+.image4{
+  background-color: rgb(248, 250, 186);;
+}
+
+.color1{
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
+/* About */
+
+.color{
+  background-color:rgb(235,  163, 163); 
+  
+  display: grid;
+  
+}
+
+.align{
+  text-align: justify align;
+  margin-left: 20px;
+  color: rgba(26, 11, 11, 0.801);
+}
+
+.text1{
+  margin-left: 20px;
+}
+
+.text2{
+  margin-left: 20px;
+}
+
+
+
+.flex1{
+  display: flex;
+  margin-top: 10px;
+  margin-left: 40%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.flex2{
+  display: flex;
+  margin-top: 5%;
+  margin-left: 5%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding-bottom: 20px;
+}
+.about {
+  color: #000;
+  font-size: 75px;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-top: 50px;
+  margin-left: 20px;
+  
+  
+}
+
+
+.right{ 
+   
+   margin-left: 45%; 
+   position: absolute; 
+   top: 500px; 
+} 
+
+.right p{
+color:rgba(26, 11, 11, 0.801);
+}
+
+/* Contact us */
+ * {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+  font-family: sans-serif;
+
+} 
+
+   .body {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  background-color:  rgb(235, 163, 163); 
+
+
+
+}   
+
+ .container {
+  width: 500px;
+  height: 400px;
+  background-color:  rgba(233, 117, 152, 0.5);
+  backdrop-filter: blur(10px);
+  display: grid;
+  place-content: center;
+  border: 3px solid rgba(255, 255, 255, 0.3);
+  border-radius: 5px;
+
+
+} 
+
+h1 {
+  color: #fff;
+  text-transform: uppercase;
+  padding: 5px ;
+
+
+}
+
+ 
+
+
+
+
+
+
+
+   
